@@ -9,9 +9,9 @@ E aí, pessoal! 👋 Sejam bem-vindos ao README do nosso super divertido Jogo de
 É super simples, relaxa! 😎 Você só precisa de um navegador (Chrome, Firefox, Edge, o que te fizer feliz! 🦊).
 
 1.  **Salva os arquivos:** Certifique-se de ter os três arquivos juntinhos em uma mesma pasta:
-    * `index.html` (esse é o nosso palco principal!)
-    * `style.css` (aqui mora o estilo, a beleza do jogo!)
-    * `script.js` (a inteligência por trás da diversão!)
+    - `index.html` (esse é o nosso palco principal!)
+    - `style.css` (aqui mora o estilo, a beleza do jogo!)
+    - `script.js` (a inteligência por trás da diversão!)
 2.  **Abre o `index.html`:** Dê um clique duplo nesse arquivo e deixe a mágica acontecer no seu navegador! 🪄
 
 ## 🕹️ Como Jogar? É Moleza!
